@@ -1,0 +1,16 @@
+PODS:
+  - PullToRefreshKit (0.8.8)
+
+DEPENDENCIES:
+  - PullToRefreshKit
+
+SPEC REPOS:
+  https://github.com/cocoapods/specs.git:
+    - PullToRefreshKit
+
+SPEC CHECKSUMS:
+  PullToRefreshKit: 7cc53e720e69f135cffa1a57784dfb534f0222ab
+
+PODFILE CHECKSUM: b65322433de1190d7439a9e7514cd18b548a3bfb
+
+COCOAPODS: 1.6.1
